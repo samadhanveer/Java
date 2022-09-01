@@ -5,6 +5,7 @@ public class first{
        
         System.out.println("hello");
         System.out.println("one");
+        System.out.println("two");
         
 
     }
